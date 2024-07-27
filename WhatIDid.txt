@@ -1,0 +1,2 @@
+SECTION 10 : Created a mini project of adding a resource (props, events , ERROR ALERT COMPONENTS )
+D:\Vue_Practice_2024_February\9_Section_10_Course_Project_The_Learning_Resource_App\Resource_After_Module_Introduction\prj-cmp-01-starting-setup\prj-cmp-01-starting-setup
